@@ -1,0 +1,1 @@
+# Nagios-to-Excel-config
