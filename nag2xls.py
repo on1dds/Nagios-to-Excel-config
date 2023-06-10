@@ -63,7 +63,7 @@ def create_sheet(workbook, sheetname, objects):
 
 
 if len(sys.argv) != 2:
-    print("fout")
+    print("error, no output filename found")
     sys.exit()
 
 excelfile = sys.argv[1]
