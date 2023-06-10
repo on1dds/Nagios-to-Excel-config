@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+#################################################################
+## Author: Joachim Elen
+## Date: 2023-06-10
+## 
+## Purpose: Convert Nagios Core object files to excel
+## License: GNU GPLv2
+#################################################################
 import sys
 import xlwt
 import time
